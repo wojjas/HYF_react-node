@@ -19,10 +19,12 @@ Node Express, one single file. This one serves the api-endpoints AND the whole c
 
 ## Run/Test/Develop
 
+After you clone this repository cd into client/ and run `npm install`. Then cd into server/ and run `npm install` as well.
+
 To run, always start the server:
 
 - Go to server's directory and run `node app.js`
-- Check that it is up and listening on a port
+- Check that it is up and listening on a port (it prints this to terminal if everything is good)
 
 Then start the client:
 
